@@ -1,0 +1,110 @@
+{
+    "ETTm2": {
+        "96": {
+            "MSE": null,
+            "MAE": null
+        },
+        "192": {
+            "MSE": null,
+            "MAE": null
+        },
+        "336": {
+            "MSE": null,
+            "MAE": null
+        },
+        "720": {
+            "MSE": 2.6863950320652554,
+            "MAE": 1.5545555523463659
+        }
+    },
+    "electricity": {
+        "96": {
+            "MSE": null,
+            "MAE": null
+        },
+        "192": {
+            "MSE": null,
+            "MAE": null
+        },
+        "336": {
+            "MSE": null,
+            "MAE": null
+        },
+        "720": {
+            "MSE": null,
+            "MAE": null
+        }
+    },
+    "exchange_rate": {
+        "96": {
+            "MSE": null,
+            "MAE": null
+        },
+        "192": {
+            "MSE": null,
+            "MAE": null
+        },
+        "336": {
+            "MSE": null,
+            "MAE": null
+        },
+        "720": {
+            "MSE": null,
+            "MAE": null
+        }
+    },
+    "illness": {
+        "96": {
+            "MSE": null,
+            "MAE": null
+        },
+        "192": {
+            "MSE": null,
+            "MAE": null
+        },
+        "336": {
+            "MSE": null,
+            "MAE": null
+        },
+        "720": {
+            "MSE": null,
+            "MAE": null
+        }
+    },
+    "traffic": {
+        "96": {
+            "MSE": null,
+            "MAE": null
+        },
+        "192": {
+            "MSE": null,
+            "MAE": null
+        },
+        "336": {
+            "MSE": null,
+            "MAE": null
+        },
+        "720": {
+            "MSE": null,
+            "MAE": null
+        }
+    },
+    "weather": {
+        "96": {
+            "MSE": null,
+            "MAE": null
+        },
+        "192": {
+            "MSE": null,
+            "MAE": null
+        },
+        "336": {
+            "MSE": null,
+            "MAE": null
+        },
+        "720": {
+            "MSE": null,
+            "MAE": null
+        }
+    }
+}

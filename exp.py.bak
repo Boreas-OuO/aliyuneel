@@ -1,0 +1,25 @@
+import pandas as pd
+import numpy as np
+from src.dcv2 import DFTTRI
+
+def run(name,pred_len):
+    etdata = pd.read_csv(f'./dataset/{name}/{name}.csv')
+    ot = etdata['OT'].values
+    #_ot = np.arange(0, 10000 ,dtype=np.float32)
+    #ot = np.sin(_ot)
+    num_epochs = 500
+    pred_len = pred_len
+    lr = 1e-3
+    batch_size = 1024
+
+    dfttri = DFTTRI(num_epochs=num_epochs , pred_len=pred_len, lr=lr)
+    dfttri.load_data(ot, name=name, batch_size=batch_size)
+    dfttri.train()
+namelist = ['ETTm2',
+            'electricity',
+            'exchange_rate',
+            'illness',
+            'trafic',
+            'weather']
+for name in namelist:
+    run(name,pred_len=720)

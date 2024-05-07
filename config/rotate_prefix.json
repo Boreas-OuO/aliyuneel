@@ -1,0 +1,23 @@
+{
+    "methods": "rotate",
+    "model": "ALEXNET",
+    "window_len": 96,
+    "O_size":96,
+    "flip": true,
+    "bin": false,
+    "in_channels": 2,
+    "out_channels": 8,
+    "kernel_size": 3,
+    "learning_rate": 1e-3,
+    "threshold": 1e-7,
+    "dropout rate": 0.5,
+    "Rotate_size": 100,
+    "dropout_rate": 0.5,
+    "num_epochs": 500,
+    "seed": 0,
+    "mae": -1.0,
+    "RMSE": -1.0,
+    "r2": -1.0,
+    "accuracy": -1.0,
+    "f1 score": -1.0
+}

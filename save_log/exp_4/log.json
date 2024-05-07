@@ -1,0 +1,182 @@
+{
+    "ETTm2": {
+        "96": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "192": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "336": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "720": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        }
+    },
+    "electricity": {
+        "96": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "192": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "336": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "720": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        }
+    },
+    "exchange_rate": {
+        "96": {
+            "EPOCH": 7,
+            "MSE_VALI": 3.986104726791382,
+            "MAE_VALI": 1.9673200845718384,
+            "MSE_TEST": 2.4248675107955933,
+            "MAE_TEST": 1.3917710483074188
+        },
+        "192": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "336": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "720": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        }
+    },
+    "illness": {
+        "96": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "192": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "336": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "720": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        }
+    },
+    "traffic": {
+        "96": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "192": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "336": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "720": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        }
+    },
+    "weather": {
+        "96": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "192": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "336": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        },
+        "720": {
+            "EPOCH": null,
+            "MSE_VALI": null,
+            "MAE_VALI": null,
+            "MSE_TEST": null,
+            "MAE_TEST": null
+        }
+    }
+}
